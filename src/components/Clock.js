@@ -5,12 +5,6 @@ import moment from 'moment';
 import './Clock.css';
 
 class Time extends Component {
-  // constructor(props) {
-  //   super(props);
-  //   this.state = {
-  //     todaysDate: false,
-  //   };
-  // }
   // Using class field declaration https://www.robinwieruch.de/react-state-without-constructor
   state = { todaysDate: false };
 
