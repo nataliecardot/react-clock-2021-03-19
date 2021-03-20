@@ -19,11 +19,11 @@
 }
 
 /* Circle enclosing digital clock */
-.time {
+.clock-bg {
   font-size: 3em;
   width: 280px;
   height: 280px;
-  background: #4fc3f7;
+  background: #039be5;
   border-radius: 50%;
   margin: auto;
   position: fixed;
