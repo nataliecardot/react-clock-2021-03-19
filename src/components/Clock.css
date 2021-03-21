@@ -5,12 +5,14 @@
   font-size: 3em;
   color: #fff;
   padding: 20px 30px;
+  text-align: center;
 }
 
 .toggleDate {
   margin-top: 10px;
   font-size: 1.8em;
   color: #666;
+  text-align: center;
 }
 
 .toggle.ant-switch {
